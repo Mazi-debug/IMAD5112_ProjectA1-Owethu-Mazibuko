@@ -267,3 +267,8 @@ the code above is meant to create an app for the user to be able to get meal pla
 
 git hub repository link
 https://github.com/Mazi-debug/IMAD5112_ProjectA1-Owethu-Mazibuko/tree/master
+
+youtube video links
+https://youtube.com/shorts/eKwd3KST9cM
+https://youtube.com/shorts/Q9cC3lp_Neo
+
