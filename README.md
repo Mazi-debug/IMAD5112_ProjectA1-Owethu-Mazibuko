@@ -264,3 +264,6 @@ CH3 section 2 (3.2)
 }
 
 the code above is meant to create an app for the user to be able to get meal plan suggestions based on the time of day
+
+git hub repository link
+https://github.com/Mazi-debug/IMAD5112_ProjectA1-Owethu-Mazibuko/tree/master
